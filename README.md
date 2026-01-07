@@ -1,16 +1,29 @@
-## Hi there 👋
+Hey, I’m Francisco 👋
 
-<!--
-**franlouc0/franlouc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build products, test ideas, and document what I learn.
 
-Here are some ideas to get you started:
+### What I do
+- Product and growth
+- Web3 when it makes sense
+- Experiments, MVPs, prototypes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+- Building and iterating in public
+- Mixing tech, marketing, and systems
+- Turning ideas into shipped things
+
+### What you’ll find here
+- Small projects
+- Proofs of concept
+- Side experiments
+- Notes worth keeping
+
+### Beliefs
+- Shipping beats planning
+- Simple beats clever
+- Learning beats pretending
+
+### Get in touch
+- X / Twitter: @yourhandle
+- LinkedIn: your-link
+- Website: your-site (optional)
