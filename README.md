@@ -4,18 +4,20 @@
 
 #### I'm currently
 - Part-time Web3 Marketing & Growth Manager @ [IBC Group](https://www.ibcgroup.io/)
-- Web3 Marketing Consultant @ [Lympid](https://www.lympid.io/), [SIXR Cricket](https://sixrcricket.com/), and [LitVM](https://www.litvm.com/)
+- Web3 Marketing Consultant @ [SIXR Cricket](https://sixrcricket.com/), and [LitVM](https://www.litvm.com/)
 - Co-Founder @ [Coompass](https://www.coompass.org/)
 - Partner @ [Broadpath](https://broadpath.dev)
 - Founding Mentor @ [Builders Camp](https://www.builderscamp.com/)
+- Advisor @ [Predik](https://predik.io/)
 
 ### Past experiences
+- Web3 Marketing Consultant @ [Lympid](https://www.lympid.io/), [Cosmos Health](https://www.cosmoshealthinc.com/), and [SurgeKIT](https://surgekit.io/)
 - CMO & Co-Founder @ https://github.com/polkamarkets (2020/23)
 - Head of Sales & Partnerships @ https://github.com/bepronetwork (2020/2021)
 - Business Development & Research @ https://github.com/polkastarter (2020/21)
 - Digital Marketing & E-Business Manager @ [Würth Portugal](https://www.wurth.pt/)
 - and more on [LinkedI](https://www.linkedin.com/in/franlouco/)
-
+<br>
 <table>
   <tr>
     <th width="33%">What I do</th>
