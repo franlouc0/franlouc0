@@ -2,7 +2,7 @@
 
 - I build products, test ideas, and document what I learn.
 
-#### I'm currently
+### I'm currently
 - Web3 Marketing & Growth Manager @ [IBC Group](https://www.ibcgroup.io/)
 - Web3 Marketing Consultant @ [SIXR Cricket](https://sixrcricket.com/), and [LitVM](https://www.litvm.com/)
 - Co-Founder @ [Coompass](https://www.coompass.org/)
