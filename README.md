@@ -35,3 +35,36 @@
 | What I do | Current focus | What you’ll find here |
 |---------|---------------|-----------------------|
 | Product and growth<br>Web3 when it makes sense<br>Experiments, MVPs, prototypes | Building and iterating in public<br>Mixing tech, marketing, and systems<br>Turning ideas into shipped things | Small projects<br>Proofs of concept<br>Side experiments<br>Notes worth keeping |
+
+<table>
+  <tr>
+    <th width="33%">What I do</th>
+    <th width="33%">Current focus</th>
+    <th width="34%">What you’ll find here</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Product and growth</li>
+        <li>Web3 when it makes sense</li>
+        <li>Experiments, MVPs, prototypes</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Building and iterating in public</li>
+        <li>Mixing tech, marketing, and systems</li>
+        <li>Turning ideas into shipped things</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Small projects</li>
+        <li>Proofs of concept</li>
+        <li>Side experiments</li>
+        <li>Notes worth keeping</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
