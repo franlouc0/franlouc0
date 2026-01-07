@@ -32,13 +32,8 @@
 - Side experiments
 - Notes worth keeping
 
-- | ### What I do | ### Current focus | ### What you’ll find here |
-|:---:|:---:|:---:|:---:|:---:|
-| - Product and growth
-- Web3 when it makes sense
-- Experiments, MVPs, prototypes | - Building and iterating in public
-- Mixing tech, marketing, and systems
-- Turning ideas into shipped things | - Small projects
-- Proofs of concept
-- Side experiments
-- Notes worth keeping |
+| Area | Details |
+|-----|--------|
+| What I do | Product and growth<br>Web3 when it makes sense<br>Experiments, MVPs, prototypes |
+| Current focus | Building and iterating in public<br>Mixing tech, marketing, and systems<br>Turning ideas into shipped things |
+| What you’ll find here | Small projects<br>Proofs of concept<br>Side experiments<br>Notes worth keeping |
