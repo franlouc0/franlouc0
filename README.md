@@ -3,7 +3,7 @@ A crossover of product, growth, and tech. Building and shipping ideas. I build p
 
 ### I'm currently
 - Web3 Marketing & Growth Manager @ [IBC Group](https://www.ibcgroup.io/)
-- Web3 Marketing Consultant @ [SIXR Cricket](https://sixrcricket.com/), and [LitVM](https://www.litvm.com/)
+- Web3 Marketing Consultant @ [SIXR Cricket](https://sixrcricket.com/), [LitVM](https://www.litvm.com/), and [SendFeedback](https://www.sendfeedback.ai/)
 - Co-Founder @ [Coompass](https://www.coompass.org/)
 - Partner @ [Broadpath](https://broadpath.dev)
 - Founding Mentor @ [Builders Camp](https://www.builderscamp.com/)
