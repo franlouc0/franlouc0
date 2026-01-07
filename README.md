@@ -14,8 +14,8 @@ A crossover of product, growth, and tech. Building and shipping ideas. I build p
 - CMO & Co-Founder @ https://github.com/polkamarkets (2020/23)
 - Head of Sales & Partnerships @ https://github.com/bepronetwork (2020/2021)
 - Business Development & Research @ https://github.com/polkastarter (2020/21)
-- Digital Marketing & E-Business Manager @ [Würth Portugal](https://www.wurth.pt/)
-- and more on [LinkedI](https://www.linkedin.com/in/franlouco/)
+- Digital Marketing & E-Business Manager @ [Würth Portugal](https://www.wurth.pt/) (2016/2020)
+- and more on [LinkedIn](https://www.linkedin.com/in/franlouco/)
 <br>
 <table>
   <tr>
