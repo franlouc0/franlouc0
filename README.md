@@ -32,7 +32,13 @@
 - Side experiments
 - Notes worth keeping
 
-### Beliefs
-- Shipping beats planning
-- Simple beats clever
-- Learning beats pretending
+- | ### What I do | ### Current focus | ### What you’ll find here |
+|:---:|:---:|:---:|:---:|:---:|
+| - Product and growth
+- Web3 when it makes sense
+- Experiments, MVPs, prototypes | - Building and iterating in public
+- Mixing tech, marketing, and systems
+- Turning ideas into shipped things | - Small projects
+- Proofs of concept
+- Side experiments
+- Notes worth keeping |
