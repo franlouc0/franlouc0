@@ -39,8 +39,8 @@
 <table>
   <tr>
     <th width="33%">What I do</th>
-    <th width="33%">Current focus</th>
-    <th width="34%">What you’ll find here</th>
+    <th width="37%">Current focus</th>
+    <th width="30%">What you’ll find here</th>
   </tr>
   <tr>
     <td>
