@@ -48,25 +48,3 @@ A crossover of product, growth, and tech. Building and shipping ideas. I build p
     </td>
   </tr>
 </table>
-
-<h3>What I do</h3>
-<ul>
-  <li>Product and growth</li>
-  <li>Web3 when it makes sense</li>
-  <li>Experiments, MVPs, prototypes</li>
-</ul>
-
-<h3>Current focus</h3>
-<ul>
-  <li>Building and iterating in public</li>
-  <li>Mixing tech, marketing, and systems</li>
-  <li>Turning ideas into shipped things</li>
-</ul>
-
-<h3>What you’ll find here</h3>
-<ul>
-  <li>Small projects</li>
-  <li>Proofs of concept</li>
-  <li>Side experiments</li>
-  <li>Notes worth keeping</li>
-</ul>
