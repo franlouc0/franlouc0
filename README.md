@@ -1,5 +1,5 @@
 # Hey, I’m Francisco 👋
-A crossover of product, growth, and tech. Building and shipping ideas. I build products, test ideas, and document what I learn.
+A crossover of product, growth, and tech. Building and shipping ideas. I build products, test ideas, and document what I learn. Feel free to visit my [personal website](https://franlou.co)
 
 ### I'm currently
 - Web3 Marketing & Growth Manager @ [IBC Group](https://www.ibcgroup.io/)
