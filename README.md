@@ -13,8 +13,8 @@ Feel free to visit my [personal website](https://franlou.co)
 ### Past experiences
 - Web3 Marketing Consultant @ [Lympid](https://www.lympid.io/), [Cosmos Health](https://www.cosmoshealthinc.com/), and [SurgeKIT](https://surgekit.io/) (2024/2025)
 - CMO & Co-Founder @ https://github.com/polkamarkets (2020/23)
-- Head of Sales & Partnerships @ https://github.com/bepronetwork (2020/2021)
 - Business Development & Research @ https://github.com/polkastarter (2020/21)
+- Head of Sales & Partnerships @ https://github.com/bepronetwork (2020/2021)
 - Digital Marketing & E-Business Manager @ [Würth Portugal](https://www.wurth.pt/) (2016/2020)
 - and more on [LinkedIn](https://www.linkedin.com/in/franlouco/)
 <br>
