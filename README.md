@@ -4,7 +4,7 @@ Feel free to visit my [personal website](https://franlou.co)
 
 ### I'm currently
 - Web3 Marketing & Growth Manager @ [IBC Group](https://www.ibcgroup.io/)
-- Web3 Marketing Consultant @ [SIXR Cricket](https://sixrcricket.com/), [LitVM](https://www.litvm.com/), and [REalloys(https://realloys.com/)]
+- Web3 Marketing Consultant @ [SIXR Cricket](https://sixrcricket.com/), [LitVM](https://www.litvm.com/), and [REalloys](https://realloys.com/)
 - Co-Founder @ [Coompass](https://www.coompass.org/)
 - Partner @ [Broadpath](https://broadpath.dev)
 - Founding Mentor @ [Builders Camp](https://www.builderscamp.com/)
