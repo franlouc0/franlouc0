@@ -8,9 +8,9 @@ Feel free to visit my [personal website](https://franlou.co)
 - Partner @ [Broadpath](https://broadpath.dev)
 
 ### Past experiences
+- Web3 Marketing & Growth Manager @ [IBC Group](https://www.ibcgroup.io/)
 - Founding Mentor @ [Builders Camp](https://www.builderscamp.com/)
 - Advisor @ [Predik](https://predik.io/)
-- Web3 Marketing & Growth Manager @ [IBC Group](https://www.ibcgroup.io/)
 - Web3 Marketing Consultant @ [Lympid](https://www.lympid.io/), [Cosmos Health](https://www.cosmoshealthinc.com/), [SIXR Cricket](https://sixrcricket.com/), [LitVM](https://www.litvm.com/), [REalloys](https://realloys.com/), [SurgeKIT](https://surgekit.io/), and [SendFeedback](https://www.sendfeedback.ai/) (2024/2026)
 - CMO & Co-Founder @ https://github.com/polkamarkets (2020/23)
 - Business Development & Research @ https://github.com/polkastarter (2020/21)
