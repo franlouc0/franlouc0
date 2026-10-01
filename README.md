@@ -3,7 +3,7 @@ A crossover of product, growth, and tech. Building and shipping ideas. I build p
 Feel free to visit my [personal website](https://franlou.co)
 
 ### I'm currently
-- COO/CMO & Co-Founder @ [Pharoll](https://www.pharoll.com)
+- COO/CMO & Co-Founder @ [AMPLEAR](https://www.amplear.com)
 - Advisor & Co-Founder @ [Coompass](https://www.coompass.org/)
 - Partner @ [Broadpath](https://broadpath.dev)
 
